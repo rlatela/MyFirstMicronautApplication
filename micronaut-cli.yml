@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.latela.learning
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, jdbc-hikari, jooq, junit, log4j2, maven, mysql, netty-server, openapi, properties, readme, shade, testcontainers]
